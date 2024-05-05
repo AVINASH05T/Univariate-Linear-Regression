@@ -1,5 +1,5 @@
 # EXPERIMENT: 09
-## Implementation of Univariate Linear Regression
+# Implementation of Univariate Linear Regression
 #### NAME: AVINASH T
 #### REG NO: 212223230026
 #### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
@@ -17,7 +17,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ![eqn2](./eq2.jpg)  
 5.	Use the slope m and the y -intercept to form the equation of the line.
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
-## Program
+## Program:
 ```
 #Program to implement univariate Linear Regression to fit a straight line using least squares.
 #Developed by: AVINASH T
@@ -49,8 +49,8 @@ plt.show()
 ```
 ![image](https://github.com/AVINASH05T/Univariate-Linear-Regression/assets/151514286/da10bb11-ca6e-4b23-95f9-ade1a19effd1)
 
-## Output
+## Output:
 ![image](https://github.com/AVINASH05T/Univariate-Linear-Regression/assets/151514286/5968facf-af9c-47f2-8c5c-d5e62f23eee1)
 
-## Result
+## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
